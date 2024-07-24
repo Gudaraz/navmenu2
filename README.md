@@ -1,30 +1,30 @@
-#Responsive Navigation Menu with Hamburger Button
+# Responsive Navigation Menu with Hamburger Button
 
-##Description:
+## Description:
 
 This code creates a responsive navigation menu with a hamburger button for smaller screens. The menu utilizes CSS media queries to adjust its layout based on the viewport size.
 
-##Features:
+## Features:
 
 Smooth animation for opening and closing the menu.
 Clean and minimal design.
 Uses flexbox for efficient layout management.
 
-##Screenshoot
+## Screenshoot
 ![Hamburger Menu](hamburger.png)
 
-##CSS Styling:
+## CSS Styling:
 
 The CSS styles define the appearance and behavior of the navigation menu.
 
-##Base Styles:
+## Base Styles:
 
 Defines font sizes, line heights, and box-sizing for consistent layout.
 Navigation Bar:
 
 Styles the navigation bar container, including background color and alignment.
 
-##Hamburger Button:
+## Hamburger Button:
 
 Hides the hamburger button on larger screens and defines its styling and animation on hover.
 Menu Links:
